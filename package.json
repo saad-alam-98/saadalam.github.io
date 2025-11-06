@@ -2,7 +2,7 @@
   "name": "my-profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://msaleemsidd.github.io",
+  "homepage": "https://saadalam.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
-    "gh-pages": "^6.1.0",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.0"
   }
